@@ -1,1 +1,1 @@
-# CapStone-Project
+This project builds an end-to-end data pipeline to analyze healthcare data using AWS services like S3, AWS Glue, and Databricks. The pipeline ingests, cleans, and transforms patient data from a heart disease dataset, enabling insightful analysis with PySpark and SQL. Key deliverables include visualizations, automated ETL processes, and a final report highlighting patterns in patient health metrics and heart disease prevalence. This project demonstrates cloud-based data processing and analytics, preparing for real-world healthcare data challenges.
