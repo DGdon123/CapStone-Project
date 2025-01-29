@@ -1,0 +1,22 @@
+Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,Slope,Ca,Thal,Target,Normalized_Age,Normalized_Cholesterol
+44,M,"Typical Angina",120,211,0,Normal,157,N,1.2,Up,0,Normal,0,0.23333333333333334,-1.1629816317216357
+67,M,"Atypical Angina",160,286,0,Normal,108,N,1.5,Down,3,"Fixed Defect",1,1.0,1.2313923159405562
+51,M,"Non-anginal Pain",140,283,0,Normal,149,N,1.7,Flat,0,Normal,0,0.4666666666666667,1.1356173580340685
+57,M,"Typical Angina",160,285,1,Normal,158,Y,3.5,Down,0,Normal,1,0.6666666666666666,1.1994673299717271
+67,F,"Non-anginal Pain",120,229,0,Normal,129,N,2.6,Flat,2,Normal,1,1.0,-0.5883318842827097
+56,F,"Atypical Angina",160,276,0,Normal,126,N,2.9,Flat,2,"Fixed Defect",1,0.6333333333333333,0.912142456252264
+63,M,"Typical Angina",145,233,1,Normal,150,Y,2.3,Up,0,Normal,1,0.8666666666666667,-0.46063194040739275
+52,F,"Typical Angina",140,254,0,Normal,140,Y,2.3,Up,0,Normal,1,0.5,0.20979276493802101
+64,M,"Typical Angina",145,248,0,Normal,137,Y,2.5,Up,0,Normal,1,0.9,0.01824284912504566
+63,F,"Typical Angina",150,229,0,Normal,134,Y,3.1,Up,1,Normal,1,0.8666666666666667,-0.5883318842827097
+38,M,Asymptomatic,110,239,0,Normal,173,N,2.2,Flat,0,Normal,0,0.03333333333333333,-0.2690820245944174
+55,M,"Non-anginal Pain",130,228,0,Normal,122,N,0.9,Down,0,Normal,0,0.6,-0.6202568702515389
+62,M,"Typical Angina",140,268,0,Normal,160,Y,3.6,Flat,0,Normal,1,0.8333333333333334,0.6567425685016302
+63,F,"Atypical Angina",150,307,0,Normal,120,N,1.8,Flat,0,Normal,1,0.8666666666666667,1.90181702128597
+49,F,"Non-anginal Pain",130,240,0,Normal,158,N,2.1,Up,0,Normal,0,0.4,-0.23715703862558815
+53,F,"Non-anginal Pain",130,223,0,Normal,141,N,1.2,Up,0,Normal,0,0.5333333333333333,-0.779881800095685
+61,F,"Typical Angina",130,283,0,Normal,132,N,2.8,Flat,1,Normal,1,0.8,1.1356173580340685
+37,M,Asymptomatic,130,250,0,Normal,187,N,3.5,Up,0,Normal,0,0.0,0.08209282106270412
+56,F,"Non-anginal Pain",120,236,0,Normal,178,N,0.8,Up,0,Normal,0,0.6333333333333333,-0.36485698250090504
+41,F,Asymptomatic,120,204,0,Normal,172,N,1.4,Flat,0,Normal,0,0.13333333333333333,-1.3864565335034402
+44,M,"Typical Angina",120,184,0,Normal,155,N,0.6,Flat,0,Normal,0,0.23333333333333334,-2.024956252880025
